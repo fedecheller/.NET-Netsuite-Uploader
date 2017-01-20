@@ -1,4 +1,4 @@
-# .NET-Suite-Uploader
+# .NET-NETSUITE-Uploader
 configurable NETSUITE FileCabinet uploader written in C#
 
 The application login in Netsuite and upload files in the Cabinet using Suite Talk webservices
